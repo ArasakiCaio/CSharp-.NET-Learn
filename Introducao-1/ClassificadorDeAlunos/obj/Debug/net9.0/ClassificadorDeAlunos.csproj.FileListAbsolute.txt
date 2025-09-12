@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\bin\Debug\net9.0\ClassificadorDeAlunos.exe
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\bin\Debug\net9.0\ClassificadorDeAlunos.deps.json
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\bin\Debug\net9.0\ClassificadorDeAlunos.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\bin\Debug\net9.0\ClassificadorDeAlunos.dll
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\bin\Debug\net9.0\ClassificadorDeAlunos.pdb
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.dll
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\refint\ClassificadorDeAlunos.dll
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.pdb
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ClassificadorDeAlunos.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-1\ClassificadorDeAlunos\obj\Debug\net9.0\ref\ClassificadorDeAlunos.dll
