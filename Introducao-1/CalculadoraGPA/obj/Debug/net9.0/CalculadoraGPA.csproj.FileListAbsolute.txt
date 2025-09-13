@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\bin\Debug\net9.0\CalculadoraGPA.exe
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\bin\Debug\net9.0\CalculadoraGPA.deps.json
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\bin\Debug\net9.0\CalculadoraGPA.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\bin\Debug\net9.0\CalculadoraGPA.dll
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\bin\Debug\net9.0\CalculadoraGPA.pdb
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.dll
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\refint\CalculadoraGPA.dll
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.pdb
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\CalculadoraGPA.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-1\CalculadoraGPA\obj\Debug\net9.0\ref\CalculadoraGPA.dll
