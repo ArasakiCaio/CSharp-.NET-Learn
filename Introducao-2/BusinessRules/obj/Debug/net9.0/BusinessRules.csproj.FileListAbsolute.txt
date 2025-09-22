@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\bin\Debug\net9.0\BusinessRules.exe
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\bin\Debug\net9.0\BusinessRules.deps.json
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\bin\Debug\net9.0\BusinessRules.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\bin\Debug\net9.0\BusinessRules.dll
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\bin\Debug\net9.0\BusinessRules.pdb
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.dll
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\refint\BusinessRules.dll
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.pdb
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\BusinessRules.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-2\BusinessRules\obj\Debug\net9.0\ref\BusinessRules.dll
