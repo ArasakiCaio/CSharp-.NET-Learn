@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-2\Game\bin\Debug\net9.0\Game.exe
+D:\CSharp-.NET-Learn\Introducao-2\Game\bin\Debug\net9.0\Game.deps.json
+D:\CSharp-.NET-Learn\Introducao-2\Game\bin\Debug\net9.0\Game.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-2\Game\bin\Debug\net9.0\Game.dll
+D:\CSharp-.NET-Learn\Introducao-2\Game\bin\Debug\net9.0\Game.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.dll
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\refint\Game.dll
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\Game.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-2\Game\obj\Debug\net9.0\ref\Game.dll

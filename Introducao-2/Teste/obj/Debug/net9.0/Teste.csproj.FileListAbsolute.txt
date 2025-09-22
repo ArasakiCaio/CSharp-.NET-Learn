@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-2\Teste\bin\Debug\net9.0\Teste.exe
+D:\CSharp-.NET-Learn\Introducao-2\Teste\bin\Debug\net9.0\Teste.deps.json
+D:\CSharp-.NET-Learn\Introducao-2\Teste\bin\Debug\net9.0\Teste.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-2\Teste\bin\Debug\net9.0\Teste.dll
+D:\CSharp-.NET-Learn\Introducao-2\Teste\bin\Debug\net9.0\Teste.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.dll
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\refint\Teste.dll
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\Teste.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-2\Teste\obj\Debug\net9.0\ref\Teste.dll
