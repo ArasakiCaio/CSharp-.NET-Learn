@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\bin\Debug\net9.0\Matriz.exe
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\bin\Debug\net9.0\Matriz.deps.json
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\bin\Debug\net9.0\Matriz.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\bin\Debug\net9.0\Matriz.dll
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\bin\Debug\net9.0\Matriz.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.dll
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\refint\Matriz.dll
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\Matriz.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-2\Matriz\obj\Debug\net9.0\ref\Matriz.dll
