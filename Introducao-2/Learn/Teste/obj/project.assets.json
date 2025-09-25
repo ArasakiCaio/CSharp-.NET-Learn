@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\Teste\\Teste.csproj",
+      "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Teste\\Teste.csproj",
       "projectName": "Teste",
-      "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Teste\\Teste.csproj",
+      "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Teste\\Teste.csproj",
       "packagesPath": "C:\\Users\\sasaz\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Teste\\obj\\",
+      "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sasaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

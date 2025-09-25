@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\BusinessRules\\BusinessRules.csproj",
+      "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\BusinessRules\\BusinessRules.csproj",
       "projectName": "BusinessRules",
-      "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\BusinessRules\\BusinessRules.csproj",
+      "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\BusinessRules\\BusinessRules.csproj",
       "packagesPath": "C:\\Users\\sasaz\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\BusinessRules\\obj\\",
+      "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\BusinessRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sasaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

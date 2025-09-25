@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-.NET-Learn\\Introducao-2\\Game\\Game.csproj": {}
+    "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Game\\Game.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-.NET-Learn\\Introducao-2\\Game\\Game.csproj": {
+    "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Game\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\Game\\Game.csproj",
+        "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Game\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Game\\Game.csproj",
+        "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Game\\Game.csproj",
         "packagesPath": "C:\\Users\\sasaz\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Game\\obj\\",
+        "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sasaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

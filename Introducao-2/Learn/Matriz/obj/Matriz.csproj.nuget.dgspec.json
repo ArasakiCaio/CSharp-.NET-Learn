@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-.NET-Learn\\Introducao-2\\Matriz\\Matriz.csproj": {}
+    "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Matriz\\Matriz.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-.NET-Learn\\Introducao-2\\Matriz\\Matriz.csproj": {
+    "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Matriz\\Matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\Matriz\\Matriz.csproj",
+        "projectUniqueName": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Matriz\\Matriz.csproj",
         "projectName": "Matriz",
-        "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Matriz\\Matriz.csproj",
+        "projectPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Matriz\\Matriz.csproj",
         "packagesPath": "C:\\Users\\sasaz\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Matriz\\obj\\",
+        "outputPath": "D:\\CSharp-.NET-Learn\\Introducao-2\\Learn\\Matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sasaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
