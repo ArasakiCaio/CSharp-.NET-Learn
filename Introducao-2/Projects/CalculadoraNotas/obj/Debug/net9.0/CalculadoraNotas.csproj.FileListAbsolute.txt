@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\bin\Debug\net9.0\CalculadoraNotas.exe
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\bin\Debug\net9.0\CalculadoraNotas.deps.json
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\bin\Debug\net9.0\CalculadoraNotas.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\bin\Debug\net9.0\CalculadoraNotas.dll
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\bin\Debug\net9.0\CalculadoraNotas.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.dll
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\refint\CalculadoraNotas.dll
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.pdb
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\CalculadoraNotas.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-2\Projects\CalculadoraNotas\obj\Debug\net9.0\ref\CalculadoraNotas.dll
