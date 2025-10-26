@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Learn", "Learn", "{6FCD63B7-4EE5-78C3-DCBA-F0B081D5C377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip", "Learn\CoinFlip\CoinFlip.csproj", "{2141496A-2142-E4F2-C61C-B9C4C350C312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2141496A-2142-E4F2-C61C-B9C4C350C312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2141496A-2142-E4F2-C61C-B9C4C350C312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2141496A-2142-E4F2-C61C-B9C4C350C312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2141496A-2142-E4F2-C61C-B9C4C350C312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2141496A-2142-E4F2-C61C-B9C4C350C312} = {6FCD63B7-4EE5-78C3-DCBA-F0B081D5C377}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70EB1E8B-75B2-455A-87B3-D8D6626AF24F}
+	EndGlobalSection
+EndGlobal

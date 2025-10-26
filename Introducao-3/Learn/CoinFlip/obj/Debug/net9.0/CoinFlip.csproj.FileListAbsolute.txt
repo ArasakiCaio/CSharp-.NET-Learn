@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\bin\Debug\net9.0\CoinFlip.exe
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\bin\Debug\net9.0\CoinFlip.deps.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\bin\Debug\net9.0\CoinFlip.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\bin\Debug\net9.0\CoinFlip.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\bin\Debug\net9.0\CoinFlip.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\refint\CoinFlip.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\CoinFlip.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\CoinFlip\obj\Debug\net9.0\ref\CoinFlip.dll
