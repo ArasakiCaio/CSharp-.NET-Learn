@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\bin\Debug\net9.0\Permission.exe
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\bin\Debug\net9.0\Permission.deps.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\bin\Debug\net9.0\Permission.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\bin\Debug\net9.0\Permission.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\bin\Debug\net9.0\Permission.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\refint\Permission.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\Permission.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\Permission\obj\Debug\net9.0\ref\Permission.dll
