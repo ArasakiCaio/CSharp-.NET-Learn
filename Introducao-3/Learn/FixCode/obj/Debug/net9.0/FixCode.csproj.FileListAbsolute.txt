@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\bin\Debug\net9.0\FixCode.exe
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\bin\Debug\net9.0\FixCode.deps.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\bin\Debug\net9.0\FixCode.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\bin\Debug\net9.0\FixCode.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\bin\Debug\net9.0\FixCode.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\refint\FixCode.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\FixCode.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\FixCode\obj\Debug\net9.0\ref\FixCode.dll
