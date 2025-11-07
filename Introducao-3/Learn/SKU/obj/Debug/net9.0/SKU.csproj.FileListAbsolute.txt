@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\bin\Debug\net9.0\SKU.exe
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\bin\Debug\net9.0\SKU.deps.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\bin\Debug\net9.0\SKU.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\bin\Debug\net9.0\SKU.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\bin\Debug\net9.0\SKU.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\refint\SKU.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\SKU.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\SKU\obj\Debug\net9.0\ref\SKU.dll
