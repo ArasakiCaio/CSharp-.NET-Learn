@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\bin\Debug\net9.0\RPGBattle.exe
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\bin\Debug\net9.0\RPGBattle.deps.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\bin\Debug\net9.0\RPGBattle.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\bin\Debug\net9.0\RPGBattle.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\bin\Debug\net9.0\RPGBattle.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\refint\RPGBattle.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\RPGBattle.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\RPGBattle\obj\Debug\net9.0\ref\RPGBattle.dll
