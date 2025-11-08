@@ -1,0 +1,15 @@
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\bin\Debug\net9.0\DoWhileProjects.exe
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\bin\Debug\net9.0\DoWhileProjects.deps.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\bin\Debug\net9.0\DoWhileProjects.runtimeconfig.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\bin\Debug\net9.0\DoWhileProjects.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\bin\Debug\net9.0\DoWhileProjects.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.sourcelink.json
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\refint\DoWhileProjects.dll
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.pdb
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\DoWhileProjects.genruntimeconfig.cache
+D:\CSharp-.NET-Learn\Introducao-3\Learn\DoWhileProjects\obj\Debug\net9.0\ref\DoWhileProjects.dll
