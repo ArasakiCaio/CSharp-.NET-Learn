@@ -26,39 +26,69 @@
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-Console.Write("Insira seu cargo (Admin, Manager ou User): ");
+// Console.Write("Insira seu cargo (Admin, Manager ou User): ");
 
-string? input;
-bool flag = false;
+// string? input;
+// bool flag = false;
 
-do
+// do
+// {
+//     input = Console.ReadLine();
+
+//     if (input != null)
+//     {
+//         input = input.Trim();
+//         input = input.ToLower();
+
+//         switch (input)
+//         {
+//             case "admin":
+//                 flag = true;
+//                 break;
+
+//             case "manager":
+//                 flag = true;
+//                 break;
+
+//             case "user":
+//                 flag = true;
+//                 break;
+
+//             default:
+//                 Console.Write("Cargo informado não existe. Informe um cargo válido: ");
+//                 break;
+//         }
+//     }
+// } while (!flag);
+
+// Console.WriteLine($"Cargo {input} aceito.");
+
+//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+string? auxString, printString;
+
+foreach (string str in myStrings)
 {
-    input = Console.ReadLine();
+    int periodLocation = 0;
 
-    if (input != null)
+    periodLocation = str.IndexOf('.');
+    auxString = str;
+
+    while(periodLocation != -1)
     {
-        input = input.Trim();
-        input = input.ToLower();
+        printString = auxString.Remove(periodLocation);
 
-        switch (input)
-        {
-            case "admin":
-                flag = true;
-                break;
+        auxString = auxString.Substring(periodLocation+1);
 
-            case "manager":
-                flag = true;
-                break;
+        auxString = auxString.TrimStart();
 
-            case "user":
-                flag = true;
-                break;
+        periodLocation = auxString.IndexOf('.');
 
-            default:
-                Console.Write("Cargo informado não existe. Informe um cargo válido: ");
-                break;
-        }
+        Console.WriteLine(printString);
+
     }
-} while (!flag);
 
-Console.WriteLine($"Cargo {input} aceito.");
+    printString = auxString.Trim();
+    Console.WriteLine(printString);
+}
