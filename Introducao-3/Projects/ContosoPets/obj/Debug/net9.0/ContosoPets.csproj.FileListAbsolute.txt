@@ -1,0 +1,5 @@
+D:\CSharp-.NET-Learn\Introducao-3\Projects\ContosoPets\obj\Debug\net9.0\ContosoPets.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-.NET-Learn\Introducao-3\Projects\ContosoPets\obj\Debug\net9.0\ContosoPets.AssemblyInfoInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Projects\ContosoPets\obj\Debug\net9.0\ContosoPets.AssemblyInfo.cs
+D:\CSharp-.NET-Learn\Introducao-3\Projects\ContosoPets\obj\Debug\net9.0\ContosoPets.csproj.CoreCompileInputs.cache
+D:\CSharp-.NET-Learn\Introducao-3\Projects\ContosoPets\obj\Debug\net9.0\ContosoPets.sourcelink.json

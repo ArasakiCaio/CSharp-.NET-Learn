@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPdtv/1me3Y=",
+  "success": true,
+  "projectFilePath": "D:\\CSharp-.NET-Learn\\Introducao-3\\Projects\\ContosoPets\\ContosoPets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasaz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\sasaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\sasaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\sasaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
